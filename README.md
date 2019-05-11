@@ -1,3 +1,5 @@
+GIT,PYPI,博客园用户名密码信息备注
+========
 # -
 git用户名:jinmingzhou
 git密码：jinmingzhou@123
