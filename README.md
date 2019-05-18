@@ -9,3 +9,5 @@ pyPI绑定邮箱13268384842@163.com(此邮箱可以用手机登录)
 博客园用户名：jinmingzhou
 博客园密码：jinmingzhou@123
 linkcode 用户名：robin_king 密码:jinmingzhou@123
+腾讯云数据库:https://console.cloud.tencent.com/cdb?ins=1-cdb-c9xqiaw9
+用户名:微信扫描登陆
